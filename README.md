@@ -6,7 +6,7 @@ but you are free to extend it's capabilities easily.
 
 ## How to use
 * [Install Namecoin](http://dot-bit.org/InstallAndConfigureNamecoin)
-* put the .bat file, the 3 .js files and the index.html file into the same Directory.
+* put the 3 files (getNames.bat, code.js, index.html) into the same Directory.
 * Wait for namecoin to sync it's completely oversized blockchain. (use the graphical interface instead of namecoind.exe for syncing to get a progress bar)
 * Close the GUI and run namecoind.exe
 * Wait 5 to 10 minutes for it to initialize.
