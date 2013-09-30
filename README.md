@@ -11,9 +11,10 @@ but you are free to extend it's capabilities easily.
 * Close the GUI and run namecoind.exe
 * Wait 5 to 10 minutes for it to initialize.
 * Leave it running and start getNames.bat (namecoind.exe does not produces any output at all, this is normal)
-* After getNames.bat finished, open index.html in Mozilla Firefoy or Google Chrome.
+* After getNames.bat finished, open index.html in Mozilla Firefox or Google Chrome.
 * Laugh at all people who put their E-Mail address and other private informations in it.
-* Feel free to modify code.js and index.html
+* Feel free to modify code.js and index.html or to pipe the output into your spambot.
+* GIVE ME ALL YOUR BITCOIN! 1ML5aXvR3WTn2vB3ehTgqyZUhSGDjVWe4B
 
 ## Notes
 DNS.js and ID.js are not present on github. They are created once getNames.bat has been started.
